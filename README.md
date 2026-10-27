@@ -4,7 +4,7 @@
 
 Bridging business needs, user requirements, and technology into structured digital solutions.
 
-##👨🏾‍💻 About Me
+### 👨🏾‍💻 About Me
 I'm an Information Systems graduate interested in business analysis, system analysis, and data-driven problem-solving. I enjoy understanding business processes, identifying problems, gathering requirements, and translating business needs into practical system solutions.
 
 Through academic projects and hands-on learning, I've worked on system requirements documentation, business process modeling, data modeling, and UI/UX prototyping.
