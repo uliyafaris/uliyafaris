@@ -16,11 +16,6 @@ Through academic projects and hands-on learning, I've worked on system requireme
 - **Design & Prototyping:** Figma, UI/UX Design
 - **Project Management:** Agile, Scrum, Trello
 
-### 📂 Featured Projects
-
-- **SIMITA – Management Information System:** System analysis and design for a business management system.
-- **Jatinom Indah Agri Information System:** Business process analysis, requirements documentation, and system modeling.
-- **Courier Payroll Analysis Dashboard:** Exploring payroll data and operational performance using SQL and Power BI.
 
 ### 📫 Connect with Me
 
